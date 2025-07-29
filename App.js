@@ -5,6 +5,7 @@ export default function App() {
   return (
     <View style={styles.container}>
       <Text>Git Hub training.</Text>
+      <Text>Adding another task after git commit.</Text>
       <StatusBar style="auto" />
     </View>
   );

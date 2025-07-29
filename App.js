@@ -7,6 +7,7 @@ export default function App() {
       <Text>Git Hub training.</Text>
       <Text>Adding another task after git commit.</Text>
       <Text>Add gain</Text>
+      <Text>we are now created a .gitignore file</Text>
       <StatusBar style="auto" />
     </View>
   );
